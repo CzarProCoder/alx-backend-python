@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+'''
+Module on containing a set of defined variables
+'''
+
 
 a: int = 1
 pi: float = 3.14

@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+'''
+Module containing function that calculates the length of each list elements
+'''
 from typing import Iterable, Sequence, List, Tuple
 
 
